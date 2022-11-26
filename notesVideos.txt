@@ -24,3 +24,4 @@ Microlearning II
 	$ git status 			#see changes
 	$ git add .				#Add all the changes
 	$ git commit -m "text to add"			#add a message to the commit 
+	$ git push -u origin main				#Send all the changes to the repo

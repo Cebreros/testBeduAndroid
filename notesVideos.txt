@@ -2,12 +2,25 @@ Intro al sub skill
 Microlearning I
 Microlearning-reforzamiento práctico I
 Microlearning II
-	git --version
-	mkdir testgit			#create folder
-	cd testgit				#enter to foler
-	touch index.html		#create a file
-	code .					# open the code editor
-	git config --global user.name <parameter>				#crear name user
-	git config --global user.email <parameter>				#add email
-	git config --global -l	#verificar user was created.
+	$ git --version
+	$ mkdir testgit			#create folder
+	$ cd testgit				#enter to foler
+	$ touch index.html		#create a file
+	$ code .					# open the code editor
+	$ git config --global user.name <parameter>				#crear name user
+	$ git config --global user.email <parameter>				#add email
+	$ git config --global -l	#verificar user was created.
 	
+	create repo:
+	…or create a new repository on the command line
+	$ echo "# testBeduAndroid" >> README.md
+	$ git init
+	$ git add README.md
+	$ git commit -m "first commit"
+	$ git branch -M main
+	$ git remote add origin https://github.com/Cebreros/testBeduAndroid.git
+	$ git push -u origin main
+	
+	$ git status 			#see changes
+	$ git add .				#Add all the changes
+	$ git commit -m "text to add"			#add a message to the commit 

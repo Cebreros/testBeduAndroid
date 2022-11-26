@@ -1,0 +1,13 @@
+Intro al sub skill
+Microlearning I
+Microlearning-reforzamiento práctico I
+Microlearning II
+	git --version
+	mkdir testgit			#create folder
+	cd testgit				#enter to foler
+	touch index.html		#create a file
+	code .					# open the code editor
+	git config --global user.name <parameter>				#crear name user
+	git config --global user.email <parameter>				#add email
+	git config --global -l	#verificar user was created.
+	

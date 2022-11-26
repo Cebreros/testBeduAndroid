@@ -25,3 +25,13 @@ Microlearning II
 	$ git add .				#Add all the changes
 	$ git commit -m "text to add"			#add a message to the commit 
 	$ git push -u origin main				#Send all the changes to the repo
+
+Microlearning III\
+	$ git branch				#Know current branch
+	$ git branch <parameter>	#Create a branch
+	$ git checkout <parameter>	#change to a specific branch
+	$ git merge <parameter>		#Merge 2 branch
+	
+Microlearning-reforzamiento práctico III
+	
+	
